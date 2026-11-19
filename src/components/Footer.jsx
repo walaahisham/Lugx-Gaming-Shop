@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="lx-container px-4">
         <p className="flex min-h-[150px] flex-col items-center justify-center gap-2 py-6 text-center text-sm font-normal leading-relaxed text-white md:flex-row md:gap-1 md:text-base">
           <span>
-            Copyright © 2048 LUGX Gaming Company. All rights reserved.
+            Copyright © 2026 LUGX Gaming Company. All rights reserved.
           </span>
 
           <a
@@ -13,7 +13,7 @@ export default function Footer() {
             onClick={(e) => e.preventDefault()}
             className="relative z-[3] text-white transition-all duration-300 hover:opacity-75"
           >
-            Design: Doston21-wq
+            Design:Walaa Hisham 
           </a>
         </p>
       </div>
